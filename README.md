@@ -62,7 +62,9 @@ Rules and guidelines:
 
 How to add SQLite-JDBC jar file - 
 
-You will need a SQLite-JDBC jar file which can be found here. To add this JAR file in your project follow below steps :
+You will need a SQLite-JDBC jar file which can be found from below link. To add this JAR file in your project follow below steps :
+
+https://bitbucket.org/xerial/sqlite-jdbc/downloads/
 
 1. Right Click on your project
 2. Go to 'Build Path'
