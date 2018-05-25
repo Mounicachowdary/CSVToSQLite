@@ -1,5 +1,6 @@
 package com.csvtosqlite;
 
+// Student class
 public class Student {
 	
 	private int studentId;
